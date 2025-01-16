@@ -26,10 +26,9 @@ export const navigation = {
 
   ],
 }
-
 export const intro = {
   title: "Hey, I'm Rushial",
-  description: "I am a Msc. Business Analytics student at UCD Smurfit. I have worked as a technical Business Analyst with 4 years of experience and am aspiring to learn and grow each day",
+  description: "A Technical Business Analyst with 4 years of experience aspiring to learn and grow each day",
   image: profile.src,
   buttons: [
     {
@@ -48,15 +47,7 @@ export const intro = {
 export const about = {
   title: "Who I am",
   description: [
-    "I am a highly skilled Technical Business Analyst with 4 years of experience.  I possess a strong foundation in data analysis, leveraging tools like Oracle SQL, Tableau, Excel, and Python to translate complex business needs into actionable insights. In my current role in my organisation, I thrived in a fast-paced environment, recognized for my vision and critical thinking.  I excelled at:",
-
-    "Conceptualizing Solutions: Bridging the gap between advanced analytics and business strategy, I designed solutions that met objectives while managing risk.",
-
-    "Communication & Collaboration: I fostered strong relationships with stakeholders at all levels, ensuring clear communication and project alignment.",
-
-    "Leadership & Work Ethic: I consistently delivered results, leading by example and demonstrating a commitment to excellence.",
-
-    "I am passionate about leveraging data to drive impactful business decisions.  I am confident in my ability to add significant value to your organization.",
+    "Highly analytical and results-oriented Business Analyst with 4+ years of experience in leveraging data to drive business process improvement, risk management, and customer acquisition. Proven ability to identify opportunities for optimization, develop solutions using advanced analytics techniques, and translate complex data insights into actionable recommendations for stakeholders. Skilled in data analysis, visualization, and communication, with a strong track record of delivering successful projects on time and within budget."
   ],
 
 }
@@ -84,7 +75,6 @@ export const work = {
   ],
 }
 
-
 export const projects = {
   title: "Projects",
   cards: [
@@ -95,7 +85,7 @@ export const projects = {
       icons: [
         {
           icon: faGithub,
-          link: "https://github.com/RushialMalhotra/Business-Analysis-using-Analysis-Techniques",
+          link: "https://github.com/RushialMalhotra",
         },
       ]
     },
@@ -105,7 +95,7 @@ export const projects = {
       icons: [
         {
           icon: faGithub,
-          link: "https://github.com/RushialMalhotra/Data_Querying_and_modeling_through_SQL",
+          link: "https://github.com/RushialMalhotra/Analysis-using-SQL-and-Python",
         },
       ]
     },
@@ -115,7 +105,7 @@ export const projects = {
       icons: [
         {
           icon: faGithub,
-          link: "https://github.com/RushialMalhotra/Data_Querying_and_Analysis_using_Python-and-Excel",
+          link: "https://github.com/RushialMalhotra/Analysis-using-SQL-and-Python",
         },
       ]
     },
@@ -145,7 +135,7 @@ export const projects = {
       icons: [
         {
           icon: faGithub,
-          link: "https://github.com/RushialMalhotra/Python_basic_codes",
+          link: "https://github.com/RushialMalhotra",
         },
       ]
     }
