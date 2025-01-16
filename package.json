@@ -8,7 +8,7 @@
   "author": {
     "name": "RushialMalhotra",
     "email": "malhotrarushial22@gmail.com",
-    "url": "https://github.com/RushialMalhotra"
+    "url": "https://github.com/RushialMalhotra/Intro_to_me"
   },
   "scripts": {
     "prebuild": "node scripts/favicons.js",
